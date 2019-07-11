@@ -1,4 +1,4 @@
-var endDate = new Date("July 11, 2019 17:30:00").getTime();
+var endDate = new Date("July 25, 2019 17:30:00").getTime();
 var daysField = document.getElementById("timer-days");
 var hoursField = document.getElementById("timer-hours");
 var minutesField = document.getElementById("timer-minutes");
